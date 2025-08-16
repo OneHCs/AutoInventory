@@ -24,5 +24,4 @@ In particular:
 - If your use of this tool results in missed or incorrect data (including but not limited to daily data collection failures), you alone are responsible for any consequences, including any disciplinary notice, contractual, financial, legal, or compliance obligations.
 - The author will not be held liable if upper management/HC support team penalizes you for such failures.
 
-Thus:
-## ALWAYS DOUBLE CHECK YOUR DATA!!!!
+Thus: **ALWAYS DOUBLE CHECK YOUR DATA!!!!**
